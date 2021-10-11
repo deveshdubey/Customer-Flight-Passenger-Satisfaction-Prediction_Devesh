@@ -13,3 +13,7 @@ The dataset consist of information of the passengers boarding and de-boarding in
 | Satisfaction| If the passenger is satisfied or not |
 
 You check the notebook by clicking [here](https://github.com/deveshdubey/Customer-Flight-Passenger-Satisfaction-Prediction_Devesh/blob/main_files/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
+
+:star:  :fire:  :star:
+	
+	!pip install pandas
